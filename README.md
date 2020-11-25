@@ -2,7 +2,7 @@
 
 Python implementation of apriori. Output can be viewed on _output.txt_. Program name is apriori.py. Please run python apriori.py file.txt confidence.
 
-##Format of data files
+## Format of data files
 
 num of total transactions
 
